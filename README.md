@@ -3,19 +3,6 @@
 </div>  
   
 
-### <div align="center">I'm Chau, a student at [HUET](http://huet.hueuni.edu.vn/)🍊</div>  
-  
-
-- 👨‍💻 I’m currently Data science and learning AI 
-   
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Language  
