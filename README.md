@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" align="center" style="width: 100%; height: auto" />
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" align="center" style="width: 100%; height: auto;border-radius: 24px;" />
 </div>  
   
 
