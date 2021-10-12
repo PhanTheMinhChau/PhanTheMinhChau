@@ -31,7 +31,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://github.com/phantheminhchau" target="_blank">
-<img src=https://raw.githubusercontent.com/PhanTheMinhChau/PhanTheMinhChau/main/Picture1.png alt=website style="margin-bottom: 5px;" />
+<img src=https://raw.githubusercontent.com/PhanTheMinhChau/PhanTheMinhChau/main/Picture1.png alt=website style="margin-bottom: 5px;width: 50%; height: auto" />
 </a>
 </div>  
   
